@@ -1,0 +1,19 @@
+{
+  "name": "where_blue",
+  "version": "1.0.0",
+  "description": "Find the best place to sell blues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giryan/where_blue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giryan/where_blue/issues"
+  },
+  "homepage": "https://github.com/giryan/where_blue#readme"
+}
